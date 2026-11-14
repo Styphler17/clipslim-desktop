@@ -48,4 +48,4 @@ Email [brastyphler17+clipslim@gmail.com](mailto:brastyphler17+clipslim@gmail.com
 
 This repository only hosts installers, update files and these pages.
 
-© Stiffler Bernard Awuah (stiffler.b.awuah). ClipSlim by CreativeUtil.
+© Stiffler Bernard Awuah (stiffler.b.awuah).
